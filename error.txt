@@ -1,0 +1,23 @@
+1:// Reaching this point shouldn't be possible unless the API is behaving in a new way.
+VerificationAPIUnexpectedMessageError: The API responded with an unexpected message.
+Please report this issue to the Hardhat team.
+
+2:An unexpected error occurred during the verification process.
+Please report this issue to the Hardhat team.
+Error Details: The Etherscan API responded with a failure status.        
+The verification may still succeed but should be checked manually.       
+Reason: 09e4953f4c2b46048d4e81249fd21260
+
+3:Etherscan:
+An unexpected error occurred during the verification process.
+Please report this issue to the Hardhat team.
+Error Details: Failed to send contract verification request.
+Endpoint URL: https://api.test.btcs.network/api?apikey=ESHR8YCVXF5GWR33AHKPJ4FCBN54RBQ59S&module=contract&action=getsourcecode&address=0xb027741311B063FBdaB1Aa3bbD11D59516098d78
+
+
+
+4:UnexpectedError: An unexpected error occurred during the verification process.
+Please report this issue to the Hardhat team.
+Error Details: The Etherscan API responded with a failure status.
+The verification may still succeed but should be checked manually.
+Reason: 049071481cf74ee99799dbd52017e1f2
