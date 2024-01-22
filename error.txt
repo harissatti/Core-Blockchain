@@ -12,7 +12,7 @@ Reason: 09e4953f4c2b46048d4e81249fd21260
 An unexpected error occurred during the verification process.
 Please report this issue to the Hardhat team.
 Error Details: Failed to send contract verification request.
-Endpoint URL: https://api.test.btcs.network/api?apikey=ESHR8YCVXF5GWR33AHKPJ4FCBN54RBQ59S&module=contract&action=getsourcecode&address=0xb027741311B063FBdaB1Aa3bbD11D59516098d78
+Endpoint URL: https://api.test.btcs.network/api?apikey=apikey&module=contract&action=getsourcecode&address
 
 
 
